@@ -2,6 +2,4 @@ python-telegram-bot==20.7
 web3==6.15.1
 tronpy==0.5.5
 qrcode==7.4.2
-pillow==10.2.0
 python-dotenv==1.0.1
-requests==2.31.0
